@@ -10,7 +10,7 @@ namespace ConsoleAppHello
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Hi my  first Github Repo.");
         }
     }
 }
